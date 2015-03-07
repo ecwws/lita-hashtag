@@ -25,7 +25,7 @@ gem "lita-hashtag"
   `:moderate`, and `:off`. **Default:** `:active`.
 * `config.handlers.hashtag.giphy_api_key` - String - Your Giphy API key. You can
   either email the devs for a personal API key, or you can use the default
-  public beta key-- dc6zaTOxFJmzC.
+  public beta key-- dc6zaTOxFJmzC. **Default:** `dc6zaTOxFJmzC`
 
 ## Usage
 
