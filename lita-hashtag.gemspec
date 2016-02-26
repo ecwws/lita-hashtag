@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-hashtag"
-  spec.version       = "0.1.0"
+  spec.version       = "0.2.0"
   spec.authors       = ["Richard Li"]
   spec.email         = ["evilcat@wisewolfsolutions.com"]
   spec.description   = %q{Let lita bot respond to #'s}
